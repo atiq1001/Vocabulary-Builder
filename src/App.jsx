@@ -1,12 +1,10 @@
 import './App.css'
-import MyCard from './components/MyCard.jsx';
 
 function App() {
 
   return (
     <div>
-      Hello
-      <MyCard />
+      Hello World
     </div>
   )
 }
